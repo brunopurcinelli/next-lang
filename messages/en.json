@@ -1,0 +1,30 @@
+{
+    "Error": {
+        "description": "<p>We've unfortunately encountered an error.</p><p>You can try to <retry>reload the page</retry> you were visiting.</p>",
+        "title": "Something went wrong!"
+    },
+    "NotFoundPage": {
+        "description": "Please double-check the browser address bar or use the navigation to go to a known page.",
+        "title": "Page not found"
+    },
+    "Manifest": {
+        "name": "next-intl example"
+    },
+    "Navigation": {
+        "home": "Home",
+        "features": "Features",
+        "services": "Services",
+        "products": "Products",
+        "about": "About Us"
+    },
+    "LocaleSwitcher": {
+        "label": "Change language",
+        "locale": "{locale, select, pt-br {Portuguese(Brazilian)} en {English}}"
+    },
+    "HomePage":{
+        "title": "Home Page"
+    },
+    "AboutPage":{
+        "title": "About-US"
+    }
+}

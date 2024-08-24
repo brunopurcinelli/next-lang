@@ -1,0 +1,30 @@
+{
+    "Error": {
+        "description": "<p>Infelizmente, encontramos um erro.</p><p>Você pode tentar <retry>recarregar a página</retry> que estava visitando.</p>",
+        "title": "Algo deu errado!"
+    },
+    "NotFoundPage": {
+        "description": "Verifique novamente a barra de endereços do navegador ou use a navegação para ir para uma página conhecida.",
+        "title": "Página não encontrada"
+    },
+    "Manifest": {
+        "name": "next-intl example"
+    },
+    "Navigation": {
+        "home": "Home",
+        "features": "Recursos",
+        "services": "Serviços",
+        "products": "Produtos",
+        "about": "Sobre Nós"
+    },
+    "LocaleSwitcher": {
+        "label": "Alterar o idioma",
+        "locale": "{locale, select, pt-br {Portuguese(Brazilian)} en {English} }"
+    },
+    "HomePage":{
+        "title": "Página Principal"
+    },
+    "AboutPage":{
+        "title": "Sobre Nós"
+    }
+}
